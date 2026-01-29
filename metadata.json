@@ -1,0 +1,7 @@
+{
+  "name": "MotoMate",
+  "description": "The ultimate vehicle companion. Track fuel, expenses, and maintenance with AI-powered insights and navigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
